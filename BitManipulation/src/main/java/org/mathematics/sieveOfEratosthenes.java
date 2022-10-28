@@ -8,7 +8,7 @@ import java.util.Arrays;
  * 1 is not included and squareRootOf(N) is included
  * **/
 
-public class SieveOfEratosthenes {
+public class sieveOfEratosthenes {
 
 public static void main(String [] args){
 	System.out.println(" Hello World" + eratosthenes(12) );
