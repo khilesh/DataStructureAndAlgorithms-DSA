@@ -6,7 +6,7 @@ public static void main(String [] args){
 
 	System.out.println("Hello World");
 	
-	System.out.println("Hello World ::: " + numberOfTrailingZeros(23));
+	System.out.println("Hello World ::: " + numberOfTrailingZeros(5));
 	
 	/****
 	 * Number of zeros = [n/5] + [n/25] + [n/125] + [n/625] + [n/3125]
