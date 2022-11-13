@@ -1,7 +1,8 @@
 package org.recursion;
 /**
- * Problem Statement: Given a m*n matrix, find the number of possible paths from the top left cell of
- * the matrix to its last bottom right cell.
+ * Problem Statement: Given a m*n matrix, find the number of
+ * possible paths from the top left cell of the matrix to its
+ * last bottom right cell.
  * We are allowed to move forward or downward - upward or diagonal not allowed.
  *
  * **/

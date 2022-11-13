@@ -1,5 +1,9 @@
 package org.mathematics;
 
+
+/**
+ * Problem statement: Count number of zeros in factorial of number
+ */
 public class trailingZeros {
 
 public static void main(String [] args){
